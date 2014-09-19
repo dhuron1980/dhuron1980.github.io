@@ -1,0 +1,311 @@
+/* CSS Document */
+
+/***********************************
+SITE COLORS
+
+Dark Blue:    #1e4386
+Orange:       #e95927
+Lighter Blue: #3f4fa1
+
+
+White:        #fff
+Almost White: #fefefe
+Dark Grey:    rgba(70,70,70,0.95)
+Dark Grey:    #464646
+***********************************/
+
+/***********************************
+GENERAL
+***********************************/
+
+body {
+     color: #fefefe;
+     line-height: 1.5rem;
+     font-family: "Lato", sans-serif;
+     background: #3f4fa1;
+}
+
+.mainContent{
+	background:#3f4fa1;
+	margin:80px auto 0px auto;
+	position:relative;
+}
+
+.borderline {
+	border-bottom:solid;
+	border-bottom-color:#fff;
+	border-bottom-width:1px;
+}
+
+a.cta {
+	font-size:.9em;
+	font-weight:700;
+	letter-spacing:.1rem;
+	text-decoration:none;
+	padding:.5rem;
+	color:#fefefe;
+	background:#e95927;
+	box-shadow:#333 2px 2px 2px;
+}
+
+/************************************
+HEADER AND MENU
+************************************/
+
+header h2 {
+	font-size:1.25rem;
+	margin:0;
+	font-weight:400;
+}
+
+header h3 {
+	font-size:1rem;
+	margin:0;
+	font-weight:400;
+	font-style:italic;
+}
+
+nav a {
+	font-size:.9rem;
+	color:#fefefe;
+	text-decoration:none;
+	display:inline-block;
+	margin-left:1rem;
+	margin-top:45px;
+}
+
+nav a:hover {
+	color:#e95927;
+}
+
+nav a:current{
+	color:#e95927;
+}
+
+/********************************
+Main Content
+********************************/
+
+.mainTitle {
+	text-align:center;
+}
+
+.mainTitle h2 {
+	font-size:1.5rem;
+	letter-spacing:.2rem;
+	margin:1rem 0 .5rem 0;
+	text-shadow:#333 2px 2px 2px;
+	font-weight:400;
+}
+
+.mainTitle h3 {
+	font-size:1.25rem;
+	letter-spacing:.2rem;
+	word-spacing:.2rem;
+	margin:0 0 .5rem 0;
+	padding-bottom:1rem;
+	text-shadow:#333 2px 2px 2px;
+	font-weight:400;
+	font-style:italic;
+}
+
+.mainIntro {
+	text-align:center;
+	height:auto;
+}
+
+.mainIntro p {
+	font-size:1.15rem;
+	letter-spacing:.2rem;
+	line-height:1.75rem;
+}
+
+.mainPortfolio{
+	text-align:center;
+	height:auto;
+}
+
+.mainPortfolio p {
+	font-weight:700;
+	font-size:1.75rem;
+	letter-spacing:.4rem;
+	line-height:2.25rem;
+	text-shadow:#333 2px 2px 2px;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+/*******************************
+FOOTER
+********************************/
+
+footer {
+	text-align:center;
+	height:auto;
+	background:#3f4fa1;
+	margin:0;
+}
+
+footer p {
+	font-size:1rem;
+	letter-spacing:.2rem;
+	line-height:1.5rem;
+	margin:5% 10% 0% 10%;
+}
+
+.copyNotice {
+	font-size:.75rem;
+	color:#e95927;
+	padding-top: 25px;
+	padding-bottom:10px;
+	clear:both;
+}
+
+/****************************
+ABOUT PAGE
+****************************/
+
+.profileBio h3 {
+	font-size:1.25rem;
+	letter-spacing:.1rem;
+}
+
+.profileBio p {
+	letter-spacing:.15rem;
+	line-height:1.5rem;
+}
+
+/*************************
+PORTFOLIO
+*************************/
+
+.gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  overflow:hidden;
+}
+
+.gallery li {
+  background-color: #464646;
+  float: left;
+  margin: 2.5%;
+  width: 45%;
+}
+
+.gallery a {
+	text-decoration:none;
+	color:#fefefe;
+	font-size:.9rem;
+	letter-spacing:.1rem;
+}
+
+.gallery .caption {
+	margin-right:auto;
+	margin-left:auto;
+	padding-left:10px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/******************
+PORTFOLIO DISPLAY
+******************/
+
+.portfolioDisplay {
+	padding:3% 0 3% 0;	
+}
+.portfolioDisplay p {
+	margin:2% 10% 2% 10%;
+	letter-spacing:.18rem;
+	line-height:1.5rem;
+}
+
+.portfolioDisplay img {
+	display:block;
+	max-width:90%;
+	height:auto;
+	margin: 3% auto;
+}
+
+.portfolioDisplay h2 {
+	font-size:1.15rem;
+	letter-spacing:.15rem;
+	margin:2% 10% 2% 10%;
+}
+
+.portNav a{
+	display:inline-block;
+	text-decoration:none;
+	color:#fefefe;
+	text-align:center;
+	font-size:.9rem;
+	letter-spacing:.2rem;
+	margin-right:auto;
+	margin-left:auto;
+}
+
+.portNav a:hover {
+	color:#e95927;
+}
+
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 10%;
+	width: 80%;
+	height: 80%;
+	display:block;
+	margin:0 auto;
+}
+
+/**********************
+RESUME
+**********************/
+
+.resumeContent {
+	margin:2% 10% 2% 10%;
+	letter-spacing:.18rem;
+	line-height:1.5rem;
+	padding-top:2%;
+}
+
+.resumeContent h2{
+	font-size:1.3rem;
+	letter-spacing:.15rem;
+	margin-bottom:.9rem;
+}
+
+.resumeContent h3 {
+	font-size:1.1rem;
+	letter-spacing:.2rem;
+	margin-top:.5rem;
+	margin-bottom:.4rem;
+}
+
+.resumeContent hr {
+	color:#fefefe;
+	margin:1.5rem 0 1.5rem 0;
+}
+
+.resumeContent h4 {
+	font-size:1rem;
+	letter-spacing:.15rem;
+	margin-bottom:.1rem;
+}
+
+.resumeContent h1{
+	font-size:1.5rem;
+	letter-spacing:.15rem;
+	margin-bottom:.5rem;
+}
