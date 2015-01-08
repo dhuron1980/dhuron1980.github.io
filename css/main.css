@@ -1,9 +1,13 @@
 /* CSS Document */
 
+@charset "UTF-8";
+/* CSS Document */
+
 /***********************************
 SITE COLORS
 
 Dark Blue:    #1e4386
+Dark Blue:	  rgba(30,67,134,1.00)
 Orange:       #e95927
 Lighter Blue: #3f4fa1
 
@@ -14,298 +18,225 @@ Dark Grey:    rgba(70,70,70,0.95)
 Dark Grey:    #464646
 ***********************************/
 
+
+
 /***********************************
-GENERAL
+GENERAL RULES
 ***********************************/
-
 body {
-     color: #fefefe;
-     line-height: 1.5rem;
-     font-family: "Lato", sans-serif;
-     background: #3f4fa1;
+    color:#464646;
+    background:#fff;
+    font-family:"AvenirNextRegular", sans-serif;
 }
 
-.mainContent{
-	background:#3f4fa1;
-	margin:80px auto 0px auto;
-	position:relative;
+.sectionTitle {
+    font-family:"AvenirNextBold", sans-serif;
+    text-align:center;
+    color:#464646;
 }
 
-.borderline {
-	border-bottom:solid;
-	border-bottom-color:#fff;
-	border-bottom-width:1px;
+.sectionTitle span {
+    color:#fff;
 }
-
-a.cta {
-	font-size:.9em;
-	font-weight:700;
-	letter-spacing:.1rem;
-	text-decoration:none;
-	padding:.5rem;
-	color:#fefefe;
-	background:#e95927;
-	box-shadow:#333 2px 2px 2px;
-}
-
-/************************************
-HEADER AND MENU
-************************************/
-
-header h2 {
-	font-size:1.25rem;
-	margin:0;
-	font-weight:400;
-}
-
-header h3 {
-	font-size:1rem;
-	margin:0;
-	font-weight:400;
-	font-style:italic;
-}
-
-nav a {
-	font-size:.9rem;
-	color:#fefefe;
-	text-decoration:none;
-	display:inline-block;
-	margin-left:1rem;
-	margin-top:45px;
-}
-
-nav a:hover {
-	color:#e95927;
-}
-
-nav a:current{
-	color:#e95927;
-}
-
-/********************************
-Main Content
-********************************/
-
-.mainTitle {
-	text-align:center;
-}
-
-.mainTitle h2 {
-	font-size:1.5rem;
-	letter-spacing:.2rem;
-	margin:1rem 0 .5rem 0;
-	text-shadow:#333 2px 2px 2px;
-	font-weight:400;
-}
-
-.mainTitle h3 {
-	font-size:1.25rem;
-	letter-spacing:.2rem;
-	word-spacing:.2rem;
-	margin:0 0 .5rem 0;
-	padding-bottom:1rem;
-	text-shadow:#333 2px 2px 2px;
-	font-weight:400;
-	font-style:italic;
-}
-
-.mainIntro {
-	text-align:center;
-	height:auto;
-}
-
-.mainIntro p {
-	font-size:1.15rem;
-	letter-spacing:.2rem;
-	line-height:1.75rem;
-}
-
-.mainPortfolio{
-	text-align:center;
-	height:auto;
-}
-
-.mainPortfolio p {
-	font-weight:700;
-	font-size:1.75rem;
-	letter-spacing:.4rem;
-	line-height:2.25rem;
-	text-shadow:#333 2px 2px 2px;
-	margin-right:auto;
-	margin-left:auto;
-}
-
-/*******************************
-FOOTER
-********************************/
-
-footer {
-	text-align:center;
-	height:auto;
-	background:#3f4fa1;
-	margin:0;
-}
-
-footer p {
-	font-size:1rem;
-	letter-spacing:.2rem;
-	line-height:1.5rem;
-	margin:5% 10% 0% 10%;
-}
-
-.copyNotice {
-	font-size:.75rem;
-	color:#e95927;
-	padding-top: 25px;
-	padding-bottom:10px;
-	clear:both;
-}
-
-/****************************
-ABOUT PAGE
-****************************/
-
-.profileBio h3 {
-	font-size:1.25rem;
-	letter-spacing:.1rem;
-}
-
-.profileBio p {
-	letter-spacing:.15rem;
-	line-height:1.5rem;
-}
-
-/*************************
-PORTFOLIO
-*************************/
-
-.gallery {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  overflow:hidden;
-}
-
-.gallery li {
-  background-color: #464646;
-  float: left;
-  margin: 2.5%;
-  width: 45%;
-}
-
-.gallery a {
-	text-decoration:none;
-	color:#fefefe;
-	font-size:.9rem;
-	letter-spacing:.1rem;
-}
-
-.gallery .caption {
-	margin-right:auto;
-	margin-left:auto;
-	padding-left:10px;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-
-/******************
-PORTFOLIO DISPLAY
-******************/
-
-.portfolioDisplay {
-	padding:3% 0 3% 0;	
-}
-.portfolioDisplay p {
-	margin:2% 10% 2% 10%;
-	letter-spacing:.18rem;
-	line-height:1.5rem;
-}
-
-.portfolioDisplay img {
-	display:block;
-	max-width:90%;
-	height:auto;
-	margin: 3% auto;
-}
-
-.portfolioDisplay h2 {
-	font-size:1.15rem;
-	letter-spacing:.15rem;
-	margin:2% 10% 2% 10%;
-}
-
-.portNav a{
-	display:inline-block;
-	text-decoration:none;
-	color:#fefefe;
-	text-align:center;
-	font-size:.9rem;
-	letter-spacing:.2rem;
-	margin-right:auto;
-	margin-left:auto;
-}
-
-.portNav a:hover {
-	color:#e95927;
-}
-
 
 .videoWrapper {
 	position: relative;
 	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
+	padding-top: 50px;
 	height: 0;
+	margin:40px 0;
 }
 .videoWrapper iframe {
 	position: absolute;
 	top: 0;
-	left: 10%;
-	width: 80%;
-	height: 80%;
-	display:block;
-	margin:0 auto;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }
 
-/**********************
-RESUME
-**********************/
-
-.resumeContent {
-	margin:2% 10% 2% 10%;
-	letter-spacing:.18rem;
-	line-height:1.5rem;
-	padding-top:2%;
+/***********************************
+SITE HEADER
+***********************************/
+header {
+    color:#fff;
+    background:rgba(70,70,70,0.95);
 }
 
-.resumeContent h2{
-	font-size:1.3rem;
-	letter-spacing:.15rem;
-	margin-bottom:.9rem;
+header h1 {
+    font-family:"AvenirNextBold", sans-serif;
 }
 
-.resumeContent h3 {
-	font-size:1.1rem;
-	letter-spacing:.2rem;
-	margin-top:.5rem;
-	margin-bottom:.4rem;
+nav a {
+    color:#fff;
+    text-decoration:none;
+    display:inline-block;
 }
 
-.resumeContent hr {
-	color:#fefefe;
-	margin:1.5rem 0 1.5rem 0;
+.logoContainer h1 span {
+    font-family:"AvenirNextMedium", sans-serif;
 }
 
-.resumeContent h4 {
-	font-size:1rem;
-	letter-spacing:.15rem;
-	margin-bottom:.1rem;
+/***********************************
+HEADER - Button Style
+***********************************/
+
+.btn {
+    border:none;
+    font-family:"AvenirNextMedium", sans-serif;
+    color:inherit;
+    background:none;
+    cursor:pointer;
 }
 
-.resumeContent h1{
-	font-size:1.5rem;
-	letter-spacing:.15rem;
-	margin-bottom:.5rem;
+.btn:before {
+    font-family:"AvenirNextMedium", sans-serif;
 }
+
+.btn-2 {
+    background:#e95927;
+    color:#fff;
+}
+
+/******************************
+MAIN IMAGE
+******************************/
+
+.callOut {
+    font-family:"AvenirNextBold", sans-serif;
+}
+
+.mainImage h1 {
+    text-shadow:#333 2px 2px 2px;
+    color:#fff;
+}
+
+/*************************
+ABOUT
+*************************/
+
+.callOutTwo {
+    font-family:"AvenirNextMedium", sans-serif;
+}
+
+/*****************************
+CONTACT 
+*****************************/
+
+.contact {
+    color:#fff;
+    background:#e95927;
+}
+
+.contactMe {
+    font-family:"AvenirNextMedium", sans-serif;
+}
+
+/*****************************
+CONTACT - Contact Form
+*****************************/
+
+input, textarea {
+    font-family:"AvenirNextRegular", sans-serif;
+    color:#464646;
+    -moz-box-sizing:border-box;
+    box-sizing:border-box;
+    border:1px solid #464646;
+}
+
+input:focus, textarea:focus {
+    border-color:#000;
+}
+
+textarea {
+    vertical-align:top;
+    height:7em;
+    resize:vertical;
+}
+
+ul {
+    list-style-type:none;
+}
+
+label {
+    font-family:"AvenirNextMedium", sans-serif;
+    display:inline-block;
+    text-align:left;
+}
+
+button {
+    font-family:"AvenirNextBold", sans-serif;
+    background:#1e4386;
+}
+
+/*****************************
+Footer
+*****************************/
+
+footer {
+    color:#e95927;
+    background:#464646;
+    text-align:center;
+}
+
+/****************************
+PORTFOLIO PAGES
+****************************/
+
+.overlay figcaption {
+    font-family:"AvenirNextRegular", sans-serif;
+    color:#fff;
+}
+
+.overlay p, h2, h3 {
+    color:#fff;
+}
+
+.overlay h3 {
+    font-family:"AvenirNextMedium", sans-serif;
+}
+
+.overlay p {
+    font-family:"AvenirNextRegular", sans-serif;
+}
+
+.overlay h2 {
+    font-family:"AvenirNextBold", sans-serif;
+}
+
+.overlay h2 span {
+    font-family:"AvenirNextRegular", sans-serif;
+}
+
+.overlay p span{
+    font-family:"AvenirNextBold", sans-serif;
+}
+
+.overlay a {
+    color:#e95927;
+    text-decoration:none;
+    letter-spacing:.12em;
+}
+
+.overlay a:hover {
+    text-decoration:underline;
+}
+
+.overlay img {
+	width:100%;
+	vertical-align:middle;
+	-webkit-box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	-moz-box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	-o-box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	background: #fff; /* Solid background color as a fallback for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#eee));
+	background: -moz-linear-gradient(top, #fff, #eee);
+	background: -o-linear-gradient(top, #fff, #eee);
+	background: linear-gradient(top, #fff, #eee);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	border-radius: 2px;
+}
+
+

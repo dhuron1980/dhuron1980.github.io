@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+
+@font-face {
+	font-family: 'AvenirNextRegular';
+	src:url(../font/AvenirNextLTPro-Regular.eot);
+	src:url(../font/AvenirNextLTPro-Regular.eot?#iefix) format('embedded-opentype'),
+		url(../font/AvenirNextLTPro-Regular.woff) format('woff');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family: 'AvenirNextMediumCN';
+	src:url(../font/AvenirNextLTPro-MediumCn.eot);
+	src:url(../font/AvenirNextLTPro-MediumCn.eot?#iefix) format('embedded-opentype'),
+		url(../font/AvenirNextLTPro-MediumCn.woff) format('woff');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family: 'AvenirNextMedium';
+	src:url(../font/avenirnextmedium.eot);
+	src:url(../font/avenirnextmedium.eot?#iefix) format('embedded-opentype'),
+		url(../font/avenirnextmedium.woff) format('woff');
+	font-weight:normal;
+	font-style:normal;
+}
+
+@font-face {
+	font-family: 'AvenirNextBold';
+	src:url(../font/AvenirNextLTPro-Bold.eot);
+	src:url(../font/AvenirNextLTPro-Bold.eot?#iefix) format('embedded-opentype'),
+		url(../font/AvenirNextLTPro-Bold.woff) format('woff');
+	font-weight:normal;
+	font-style:normal;
+}

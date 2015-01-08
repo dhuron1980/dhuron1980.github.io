@@ -1,0 +1,497 @@
+/* CSS Document */
+
+/***************************
+GENERAL RULES
+***************************/
+
+.wrapper {
+    margin-top:80px;
+}
+
+.sectionTitle {
+    font-size:1.1em;
+    letter-spacing:.1em;
+    margin:0 auto 40px;
+}
+
+.sectionTitle img {
+    padding:0 1em .25em;
+}
+
+/*************************
+SITE HEADER
+*************************/
+
+header {
+    height:80px;
+    position:fixed;
+    width:100%;
+    top:0;
+    margin-right:auto;
+    margin-left:auto;
+    z-index:1000;
+}
+
+.logoContainer img {
+    float:left;
+    max-width:100%;
+    max-height:100%;
+}
+
+.logoContainer h1 {
+    position:relative;
+    left:20px;
+}
+
+.logoContainer {
+    margin-left:20px;
+    margin-top:15px;
+}
+
+header h1 {
+    font-size:1.25em;
+    letter-spacing:.1em;
+    vertical-align:middle;
+}
+
+nav {
+    background:none;
+    float:right;
+    text-align:right;
+    margin-right:20px;
+    width:50%;
+    vertical-align:middle;
+}
+
+.logoContainer {
+    float:left;
+    width:45%;
+}
+
+nav a {
+    font-size:1em;
+    margin-left:3em;
+    letter-spacing:.1em;
+    margin-top:15px;
+}
+
+nav a:hover {
+    color:#e95927;
+}
+
+/***************************
+HEADER - Button Style
+***************************/
+
+.btn {
+    font-size:1em;
+    padding:.5em 1em;
+    border-radius:5px;
+    display:inline-block;
+    margin:10px auto;
+    letter-spacing:.1em;
+    outline:none;
+    position:relative;
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    transition:all 0.3s;
+}
+
+.btn:after {
+    content:'';
+    position:absolute;
+    z-index:-1;
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    transition:all 0.3s;
+}
+
+.btn-2 {
+    box-shadow:0 4px #c3491f;
+    -webkit-transition:none;
+    -moz-transition:none;
+    transition:none;
+}
+
+.btn-2h {
+    border-radius:20px;
+}
+
+.btn-2h:hover {
+    box-shadow:0 2px #c3491f;
+}
+
+.btn-2h:active {
+    box-shadow:0 0 #c3491f;
+    top:4px;
+}
+
+/*************************
+MAIN IMAGE
+*************************/
+
+.mainImage {
+    background:url(../img/main-image-l.jpg) no-repeat center center scroll;
+    background-size:cover;
+    width:100%;
+    height:600px;
+    position:relative;
+    -webkit-transform-style:preserve-3d;
+    -moz-transform-style:preserve-3d;
+    transform-style:preserve-3d;
+}
+
+.mainImage h1 {
+    font-size:2.25em;
+    letter-spacing:.1em;
+}
+
+.headline {
+    margin-left:117px;
+    position:absolute;
+    top:50%;
+    -webkit-transform:translate(0,-50%);
+    -moz-transform:translate(0,-50%);
+    transform:translate(0,-50%);
+}
+
+/*************************
+INTRODUCTION
+*************************/
+
+.introduction {
+    margin:90px 12.19875% 0px;
+}
+
+.introduction p {
+    font-size:1em;
+    letter-spacing:.08em;
+    line-height:1.9em;
+}
+
+/*************************
+WORK
+*************************/
+
+.work img {
+    border:0;
+    -ms-interpolation-mode:bicubic;
+    vertical-align:middle;
+}
+
+.work {
+    margin:90px auto 0px;
+    width:75.625%;
+}
+
+/**************************
+WORK -- Gallery
+**************************/
+
+.gallery {
+    width:100%;
+}
+
+.gallery .galleryItem {
+    display:inline-block;
+    width:100%;
+    text-decoration:none;
+}
+
+.gallery .galleryItem img {
+    max-width:100%;
+    height:auto;
+    margin-bottom:20px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+@media only screen and (min-width:481px) {
+    .gallery {
+        -moz-column-count:2;
+        -moz-column-gap:2.5%;
+        -webkit-column-count:2;
+        -webkit-column-gap:2.5%;
+        column-count:2;
+        column-gap:2.5%;
+    }
+}
+
+@media only screen and (min-width:960px) {
+    .gallery {
+        -moz-column-count:3;
+        -moz-column-gap:2.5%;
+        -webkit-column-count:3;
+        -webkit-column-gap:2.5%;
+        column-count:3;
+        column-gap:2.5%;
+    }
+}
+
+/*************************
+ABOUT
+*************************/
+
+.about {
+    margin:90px 12.1875%;
+}
+
+.about p {
+    font-size:1em;
+    letter-spacing:.12em;
+    line-height:1.9em;
+}
+
+.profileImage {
+    float:left;
+    max-width:100%;
+    max-height:100%;
+    margin:0 2.083333333333333% 10px 0;
+    vertical-align:top;
+}
+
+.profileCopy {
+    position:relative;
+}
+
+/*********************
+CONTACT
+*********************/
+
+.contact {
+    width:100%;
+    padding:45px 0;
+}
+
+.contact p {
+    margin:0 12.1875%;
+    font-size:1em;
+    letter-spacing:.1em;
+    line-height:1.9em;
+}
+
+.contactMe {
+    color:#1e4386;
+    text-decoration:none;
+}
+
+.contactMe:hover {
+    text-decoration:underline;
+}
+
+/*********************
+CONTACT - Contact Form
+*********************/
+
+input, textarea {
+    font-size:1em;
+    width:350px;
+}
+
+label {
+    font-size:1em;
+    letter-spacing:.08em;
+    width:140px;
+}
+
+form {
+    margin:0 auto;
+    width:500px;
+    padding-top:45px;
+}
+
+form div + div {
+    margin-top:1.25em;
+}
+
+.button {
+    padding-left:140px;
+}
+
+button {
+    margin-left:.5em;
+    padding:.5em 1em;
+    border-radius:10px;
+    font-size:1em;
+    letter-spacing:.1em;
+}
+
+/************************
+FOOTER
+************************/
+footer {
+    padding:15px 0;
+    width:100%;
+}
+
+footer p {
+    font-size:.75em;
+    letter-spacing:.08em;
+}
+
+/****************************
+PORTFOLIO PAGES
+****************************/
+
+.overlay h3 {
+    padding-top:1.5em;
+}
+
+.overlay p {
+    font-size:1em;
+    letter-spacing:.1em;
+    line-height:1.9em;
+    padding-bottom:.5em;
+}
+
+.overlay h2 {
+    letter-spacing:.1em;
+}
+
+.overlay section {
+    margin:100px 12.1875% 50px 12.1875%;
+}
+
+.overlay figure img {
+	max-width:100%;
+	height:auto;
+}
+
+.overlay figcaption {
+    letter-spacing:.1em;
+    font-size:.85em;
+    line-height:1.9em;
+}
+
+.overlay figure {
+    margin:4em 0;
+}
+
+/***************************
+PORTFOLIO - modal
+***************************/
+
+.modal-open {
+  overflow: hidden;
+}
+.modal {
+  display: none;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1040;
+  -webkit-overflow-scrolling: touch;
+  outline: 0;
+}
+.modal.fade .modal-dialog {
+  -webkit-transform: translate(0, -25%);
+  -ms-transform: translate(0, -25%);
+  -o-transform: translate(0, -25%);
+  transform: translate(0, -25%);
+  -webkit-transition: -webkit-transform 0.3s ease-out;
+  -moz-transition: -moz-transform 0.3s ease-out;
+  -o-transition: -o-transform 0.3s ease-out;
+  transition: transform 0.3s ease-out;
+}
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  transform: translate(0, 0);
+}
+.modal-open .modal {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.modal-dialog {
+  position: relative;
+  width: auto;
+  margin: 10px;
+}
+.modal-content {
+  position: relative;
+  background-color: #ffffff;
+  border: 1px solid #999999;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  -webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+  box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+  background-clip: padding-box;
+  outline: 0;
+}
+.modal-backdrop {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #000000;
+}
+.modal-backdrop.fade {
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.modal-backdrop.in {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
+.modal-header {
+  padding: 15px;
+  border-bottom: 1px solid #e5e5e5;
+  min-height: 16.42857143px;
+}
+.modal-header .close {
+  margin-top: -2px;
+}
+.modal-title {
+  margin: 0;
+  line-height: 1.42857143;
+}
+.modal-body {
+  position: relative;
+  padding: 15px;
+}
+.modal-footer {
+  padding: 15px;
+  text-align: right;
+  border-top: 1px solid #e5e5e5;
+}
+.modal-footer .btn + .btn {
+  margin-left: 5px;
+  margin-bottom: 0;
+}
+.modal-footer .btn-group .btn + .btn {
+  margin-left: -1px;
+}
+.modal-footer .btn-block + .btn-block {
+  margin-left: 0;
+}
+.modal-scrollbar-measure {
+  position: absolute;
+  top: -9999px;
+  width: 50px;
+  height: 50px;
+  overflow: scroll;
+}
+@media (min-width: 768px) {
+  .modal-dialog {
+    width: 600px;
+    margin: 30px auto;
+  }
+  .modal-content {
+    -webkit-box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+  }
+  .modal-sm {
+    width: 300px;
+  }
+}
+@media (min-width: 992px) {
+  .modal-lg {
+    width: 900px;
+  }
+}

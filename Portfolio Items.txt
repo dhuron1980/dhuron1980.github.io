@@ -1,0 +1,250 @@
+                <div class="galleryItem overlay-container"> <!-- Coleman Connection Promo Kit -->
+                    <div> <!-- Contains photo -->
+                        <a href="#" class="overlay-trigger">
+                            <img src="img/colemanconnection-gallery-l.jpg" alt="Coleman Connection Promo Kit"/>
+                        </a>
+                    </div> <!-- End Photo Container Section -->
+                    <div class="overlay overlay-hugeinc"> <!-- The Story Overlay Section -->
+                        <button type="button" class="overlay-close">Close</button>
+                        <section>
+                        	<h2>Coleman Connection Promo Kit:<span> Website Launch Promotion</span></h2>
+                            <p><span>My Roles:</span> Creative Direction, Photography, Writing and Editing</p>
+                            <h3>The Challenge</h3>
+                            <p>The Public Relations department spent several months developing a new website that would streamline the process by which students signed up to attend program information sessions, the first step towards being accepted in an HCC Coleman health science program. As the website launch date approached, we began thinking of ways to promote the site to academic advisors and counselor throughout the district who might not be as knowledgable of HCC Coleman’s admissions process and how the new website fit into that process.</p>
+                            <figure>
+                                <img src="img/coleman-connection/colemanconnection-portf1l.jpg" alt="Example 1"/>
+                                <figcaption>A close look at the contents of the promo kit.</figcaption>
+                            </figure>
+                            <h3>The Creative Process</h3>
+                            <p>The Public Relations Director meet with our graphic designer and myself to discuss ways to promote the website. The one thing we knew right from the start is that we couldn’t give the advisors and counselors a simple piece of paper. These are people who meet with potential and current students every day, all day. They are swamped with phone calls and mail. A simple letter would get placed into the trash. We had to wow them.</p>
+							<p>And we had to work quickly and within a very small budget. Our graphic designer began searching the web for creative booklet designs. She found several designs that made use of grommets and rotating pages. The team was intrigued by this idea. I proposed that we create an experience for the end user: Let’s create a book and place it into a nice envelope. Then the idea of placing a USB drive in the folder was brought up. We had our concept and were ready to work.</p>
+                            <figure>
+                                <img src="img/coleman-connection/colemanconnection-portf2l.jpg" alt="Example 2"/>
+                               <img src="img/coleman-connection/colemanconnection-portf3l.jpg" alt="Example 3"/>
+                               <figcaption>The closed envelope (top) and the contents of the envelope (bottom).</figcaption>
+                            </figure>
+							<p>Our graphic designer and I went to Texas Art Supply to find envelopes and purchase grommets. The Public Relations Director got on the phone with our promotional items supplier and ordered business card-sized USB drives. I worked with our PR Director and web designer to develop the copy for the project. Our designer relied on me to keep the project organized: When she needed copy condensed, I edited down. When she needed photographs, I grabbed my camera and got her photographs.</p>
+							<p>After completing the design, we sent the file to our copy center for printing. We got back a box filled with about 100 copies of the final product. Our graphic designer, graphic design intern and myself set up an assembly line to insert the grommets, attach the USB drives and finally seal the envelopes.</p>
+                            <figure>
+                                <img src="img/coleman-connection/colemanconnection-portf4l.jpg" alt="Example 4"/>
+                                <img src="img/coleman-connection/colemanconnection-portf5l.jpg" alt="Example 5"/>
+                                <img src="img/coleman-connection/colemanconnection-portf6l.jpg" alt="Example 6"/>
+                                <figcaption>Top: The front of the promotional book. Middle: The book's pages fanned out. Bottom: The information card enclosed in the promotional envelope.</figcaption>
+                            </figure>
+                            <h3>The Results</h3>
+                            <p>The HCC Coleman Student Services staff, who would distribute the promo kits to the district’s advisors and counselors, were extremely pleased with the final product. After passing out their supply of kits, they asked us to print 100 additional copies for internal use.</p>
+							<p>The website itself went off without a hitch. A month after Coleman Connection launched, our program sessions were welcoming more than 100 potential students at a time.</p>
+                        </section>
+                    </div> <!-- End Story Overlay Section -->
+                </div> <!-- End Coleman Connection Promo Kit -->
+                
+                
+                
+                <div class="galleryItem overlay-container"> <!-- One Day Video -->
+                    <div> <!-- Contains photo -->
+                        <a href="#" class="overlay-trigger">
+                            <img src="img/oneday-gallery-l.jpg" alt="One Day Video Project"/>
+                        </a>
+                    </div> <!-- End Photo Container Section -->
+                    <div class="overlay overlay-hugeinc"> <!-- The Story Overlay Section -->
+                        <button type="button" class="overlay-close">Close</button>
+                        <section>
+                        	<h2>One Day:<span> Promotional Video</span></h2>
+                            <p><span>My Roles:</span> Concept Development, Camera Operator and Editor</p>
+                            <h3>The Challenge</h3>
+                            <p>HCC Coleman College’s faculty and staff had produced several videos which showcased the college’s students and programs. However, these videos were all very straight forward, lacked narrative momentum and looked amateurish. It was my goal to develop a video that showcased our location within the Texas Medical Center, our campus (especially the laboratories) and honored the dedication and sacrifice of our students.</p>
+                            <div class="videoWrapper">
+                                <iframe width="560" height="315" src="http://www.youtube.com/embed/RdKruZoGff8?rel=0" frameborder="0" allowfullscreen></iframe>
+                            </div>                            
+                            <h3>The Creative Process</h3>
+                            <p>I developed the concept for “One Day” after watching the video for Death Cab for Cutie’s <a href="https://www.youtube.com/watch?v=pq-yP7mb8UE" target="_blank">“I Will Possess Your Heart.”</a> Intercut between shots of the band performing the song are scenes of a woman traveling around the world. I was struck by the simplicity of the concept and how it allowed the viewer to enter the main character’s thoughts. I decided to expand on this idea for this project.</p>
+							<p>After winning buy-in from the Public Relations Director, I approached several program directors to ask for their help recruiting students to appear in the video and to ask permission to film in their labs. I built a camera rig from metal pluming pipes in order to accomplish the flowing camera moves I pictured in my head. I got permission to shoot the skyline images of our campus from the UT Brown Foundation Institute of Molecular Medicine.</p>
+							<p>A student and I arrived on campus early one morning to shoot scenes on METRORail. We were worried the entire time, because we didn’t know if what we were doing was OK or not. Her dedication and cooperation is just one example of the generous spirit the student volunteers brought to this project.</p>
+							<p>After filming off and on for about a month, I began editing the footage in Final Cut Pro.
+</p>
+                            <h3>The Results</h3>
+                            <p>The video premiered during our annual Employee Recognition Luncheon and received a standing ovation. The video has been viewed on YouTube more than 5,000 times. It has served as an inspiration for other videos produced by Houston Community College, and has been shown at several recruiting events throughout the years.</p>
+							<p>"One Day” was awarded a 2009 Silver Medallion Award in the promotional video category from the National Council for Marketing and Public Relations (NCMPR).</p>
+                        </section>
+                    </div> <!-- End Story Overlay Section -->
+                </div> <!-- End One Day Video -->
+
+
+
+                <div class="galleryItem overlay-container"> <!-- Coleman Magazine -->
+                    <div> <!-- Contains photo -->
+                        <a href="#" class="overlay-trigger">
+                            <img src="img/colemanmagazine-gallery-l.jpg" alt="Coleman Magazine"
+                        </a>
+                    </div> <!-- End Photo Container Section -->
+                    <div class="overlay overlay-hugeinc"> <!-- The Story Overlay Section -->
+                        <button type="button" class="overlay-close">Close</button>
+                        <section>
+                        	<h2>Coleman Magazine:<span> Bi-monthly Publication</span></h2>
+                            <p><span>My Roles:</span> Creative Direction, Art Direction, Writer, Editor, Photographer and Designer</p>
+                            <h3>The Challenge</h3>
+                            <p>When I first started working at HCC Coleman, the Public Relations Director had been publishing a two-page newsletter and distributing it to the campus’ faculty and staff. Though it was a simple newsletter, it got the job done. However, I had bigger ideas. We began discussing the possibility of expanding the newsletter into a magazine, which would include not only news on the latest happenings on campus but also feature our students, faculty and staff. </p>
+                            <figure>
+                                <img src="img/coleman-magazine/colemanmagazine-1l.jpg" alt="Coleman Magazine"/>
+                               <figcaption>Coleman Magazine.</figcaption>
+                            </figure>
+                            <h3>The Creative Process</h3>
+                            <p>Each issue of Coleman Magazine began with a department meeting. Each member of the Public Relations team would bring story ideas to the table, and it was our job to sort out the best ideas while ensuring that there was equal representation of HCC Coleman’s students, faculty and staff.</p>
+							<p>After we decided on what stories to pursue, it was my job to track all of the elements through the creative process. If there were stories to be written or photographs to be taken, I would write those stories and take those photos. If other members of our staff were assigned stories, it was my job to make sure the copy was turned in on time. I organized the layout of the magazine to ensure we had enough material to fill 16 to 20 pages.</p>
+                            <figure>
+                                <img src="img/coleman-magazine/colemanmagazine-2l.jpg" alt="Coleman Magazine Issue 11"/>
+                                <img src="img/coleman-magazine/colemanmagazine-3l.jpg" alt="Coleman Magazine Issue 11"/>
+                                <img src="img/coleman-magazine/colemanmagazine-4l.jpg" alt="Coleman Magazine Issue 11"/>
+                                <img src="img/coleman-magazine/colemanmagazine-5l.jpg" alt="Coleman Magazine Issue 11"/>
+                                <img src="img/coleman-magazine/colemanmagazine-6l.jpg" alt="Coleman Magazine Issue 11"/>
+                               <figcaption>Coleman Magazine - Issue 11.</figcaption>
+                            </figure>
+							<p>During the magazine’s early days, I would layout the elements myself. I would develop cover concepts and make them a reality. After we hired a staff graphic designer, however, I began to take on more of an art director’s role. Our designer and I would discuss concepts and themes for each issue, she would develop ideas and we’d work together to decide which design ideas to pursue. When she hit a creative wall, we would discuss options and attempt to solve any issues she was facing.</p>
+							<p>I was also very involved in the printing process. I ensured that the files were ready to print before sending them to our printer. I kept track of the project as it progressed through the printing process.</p>
+                            <figure>
+                                <img src="img/coleman-magazine/colemanmagazine-7l.jpg" alt="Coleman Magazine Issue 10"/>
+                                <img src="img/coleman-magazine/colemanmagazine-8l.jpg" alt="Coleman Magazine Issue 10"/>
+                                <img src="img/coleman-magazine/colemanmagazine-9l.jpg" alt="Coleman Magazine Issue 10"/>
+                                <img src="img/coleman-magazine/colemanmagazine-10l.jpg" alt="Coleman Magazine Issue 10"/>
+                               <figcaption>Coleman Magazine - Issue 10.</figcaption>
+                            </figure>
+                            <h3>The Results</h3>
+                            <p>The publication of each issue of Coleman Magazine was an event. Copies were sent to HCC Coleman and Houston Community College shareholders throughout the Houston-area. Issues were placed throughout the campus and were gone within two weeks. VIPs who visited our campus were almost certain to leave with their very own copy of the magazine.</p>
+							<p>The HCC Coleman Public Relations Department was awarded a 2012 Silver Paragon award in magazine design from the National Council for Marketing and Public Relations (NCMPR). The department also earned a NCMPR Gold Medallion Award in 2012 and a Silver Medallion Award in 2010 for magazine design.</p>
+                            <figure>
+                                <img src="img/coleman-magazine/colemanmagazine-11l.jpg" alt="Coleman Magazine Issue 9"/>
+                                <img src="img/coleman-magazine/colemanmagazine-12l.jpg" alt="Coleman Magazine Issue 9"/>
+                                <img src="img/coleman-magazine/colemanmagazine-13l.jpg" alt="Coleman Magazine Issue 9"/>
+                               <figcaption>Coleman Magazine - Issue 9.</figcaption>
+                            </figure>
+                            <figure>
+                                <img src="img/coleman-magazine/colemanmagazine-14l.jpg" alt="Coleman Magazine Issue 8"/>
+                                <img src="img/coleman-magazine/colemanmagazine-15l.jpg" alt="Coleman Magazine Issue 8"/>
+                                <img src="img/coleman-magazine/colemanmagazine-16l.jpg" alt="Coleman Magazine Issue 8"/>
+                               <figcaption>Coleman Magazine - Issue 8.</figcaption>
+                            </figure>
+                        </section>
+                    </div> <!-- End Story Overlay Section -->
+                </div> <!-- End Coleman Magazine -->
+
+
+
+                <div class="galleryItem overlay-container"> <!-- The Book -->
+                    <div> <!-- Contains photo -->
+                        <a href="#" class="overlay-trigger">
+                            <img src="img/thebook-gallery-l.jpg" alt="The Book" />
+                        </a>
+                    </div> <!-- End Photo Container Section -->
+                    <div class="overlay overlay-hugeinc"> <!-- The Story Overlay Section -->
+                        <button type="button" class="overlay-close">Close</button>
+                        <section>
+                        	<h2>The Book:<span> Academic Catalog</span></h2>
+                            <p><span>My Roles:</span> Creative Direction, Art Direction, Writer, Editor, Photographer and Graphic Designer</p>
+                            <h3>The Challenge</h3>
+                            <p>While most of Houston Community College’s programs are open enrollment, HCC Coleman College for Health Sciences is not. Students must fulfill program prerequisites, submit applications, sit down for interviews - in other words, they must earn their spot. The goal of this project was to create an engaging publication that clearly explained HCC Coleman’s programs and the admission process.</p>     
+                            <figure>
+                                <img src="img/the-book/thebook-2l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-3l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-4l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-5l.jpg" alt="The Book"/>
+                               <figcaption>The Book - Version 1.</figcaption>
+                            </figure>
+                            <h3>The Creative Process</h3>
+                            <p>Over the last four years, the HCC Coleman Public Relations department has produced three versions of The Book. Each version began with the same goal: The information had to be up-to-date and accurate. To ensure this, I gathered information from various sources (admission step flyers, our website, previous versions of The Book) and outlined the most necessary items that a potential student would need to know. I submitted this information to each of our programs and our academic advisors to get their approval.</p>
+                            <p>One of the best things about working on a project on a semi-regular basis is that you have an opportunity to learn and evolve. For instance, the first edition of The Book featured a two-page spread for each of the programs. While the spreads looked good on paper, it also seemed as if we were bombarding the reader with a lot of unnecessary information. This plus the fact that the budget for each subsequent version became tighter and tighter forced us to cut the number of overall pages and reconfigure the layout. We asked ourselves what is the most important information that a potential student would need and cut everything else out.</p>  
+                            <figure>
+                                <img src="img/the-book/thebook-6l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-7l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-8l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-9l.jpg" alt="The Book"/>
+                               <figcaption>The Book - Version 2.</figcaption>
+                            </figure>
+                            <p>The first version of The Book featured a fairly simple cover design, but we wanted the next version to have more personality. My graphic designer and I roamed our campus’ labs taking pictures of equipment searching for an image that would inspire the reader. We finally settled on an image of a muscular anatomy model sticking a triumphant, athletic pose. We felt that the image showcased exactly what our college was about and the pose would inspire the reader to achieve their dreams. We did have to convince our college’s president to agree was an issue, however. She feared that the image would turn off potential students. Our argument was simple: The image wasn’t grisly or profane. Plus, if a potential health science student is turned off by a model of the human body, they’re probably not fit for this type of work.</p>
+                            <figure>
+                                <img src="img/the-book/thebook-10l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-11l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-12l.jpg" alt="The Book"/>
+                                <img src="img/the-book/thebook-13l.jpg" alt="The Book"/>
+                               <figcaption>The Book - Version 3.</figcaption>
+                            </figure>
+                            <h3>The Results</h3>
+                            <p>The reception to each version of The Book has been overwhelmingly positive from students, faculty and staff. What I’m most proud of is three years after the publication of the first version I still see students carrying around their copy of The Book. Knowing that my work is helping them navigate admissions and the pursuit of their dream fills me with a lot pride.</p>
+                            <p>The HCC Coleman Public Relations Department was awarded a 2012 Gold Paragon award in Academic Catalog design from the National Council for Marketing and Public Relations (NCMPR) for our work on version two of The Book.</p>
+                        </section>
+                    </div> <!-- End Story Overlay Section -->
+                </div> <!-- End The Book -->
+
+
+
+                <div class="galleryItem overlay-container"> <!-- Coleman Pathways -->
+                    <div> <!-- Contains photo -->
+                        <a href="#" class="overlay-trigger">
+                            <img src="img/pathways-gallery-l.jpg" alt="Coleman Pathways Handout"/>
+                        </a>
+                    </div> <!-- End Photo Container Section -->
+                    <div class="overlay overlay-hugeinc"> <!-- The Story Overlay Section -->
+                        <button type="button" class="overlay-close">Close</button>
+                        <section>
+                        	<h2>Coleman Pathways:<span> Student Services Handout</span></h2>
+                            <p><span>My Roles:</span> Creative Direction, Art Direction and Graphic Designer</p>
+                            <h3>The Challenge</h3>
+                            <p>Many of our students come to HCC Coleman wanting to study nursing. Unfortunately, many of them will not qualify for the program. They either don’t have the grades, don’t have the skill sets or are unaware of the various other healthcare career options. To help educate students about these options and to show how students could progress through their education towards their ultimate goal, the Public Relations office developed the HCC Coleman Pathways handout.</p>
+                            <figure>
+                                <img src="img/pathways/pathways-1l.jpg" alt="Coleman Pathways Front"/>
+                                <img src="img/pathways/pathways-2l.jpg" alt="Coleman Pathways Back"/>
+                                <img src="img/pathways/pathways-3l.jpg" alt="Coleman Pathways"/>
+                               <figcaption>The Coleman Pathways Foldout Card</figcaption>
+                            </figure>
+                            <h3>The Creative Process</h3>
+                            <p>As with all the projects I undertake at HCC Coleman, accuracy is of the utmost importance. Before sketching, before opening Illustrator, I created a flow chart outlining how each of our programs could flow into the other. I passed the chart by our academic advisors to ensure the accuracy of the information and made edits where necessary.</p>
+                            <figure>
+                                <img src="img/pathways/pathways-8l.jpg" alt="Coleman Pathways Flow Chart"/>
+                               <figcaption>The original flow chart.</figcaption>
+                            </figure>
+                            <p>From the moment that this project was brought to me, my idea was to create a business-card sized folding handout. It was my goal to create something that many of our students hadn’t seen before. Every student had seen a brochure. More importantly, every student had at one time or another lost or thrown away a brochure someone had handed to them. It was my belief that this handout would be much more special and therefore much less likely to be trashed or forgotten.</p>
+                            <p>The toughest part of this project was ensuring I could get all the information on the page without cluttering the design and keeping the fonts in a reasonable size. I worked within a very strict grid to ensure each portion of the design was a similar size and flowed naturally between each level. I added a shadow to each connection point to help show how each new degree was a step up on the career ladder.</p>
+                            <figure>
+                                <img src="img/pathways/pathways-6l.jpg" alt="Coleman Pathways Chart"/>
+                                <img src="img/pathways/pathways-7l.jpg" alt="Coleman Pathways Chart Detail"/>
+                                <img src="img/pathways/pathways-4l.jpg" alt="Coleman Pathways Introduction"/>
+                                <img src="img/pathways/pathways-5l.jpg" alt="Coleman Pathways Introduction Detail"/>
+                               <figcaption>The Coleman Pathways Foldout Card</figcaption>
+                            </figure>
+                            <h3>The Results</h3>
+                            <p>The Public Relations Director and President of our college were both very excited about the progress of this project. They were happy with the unique way in which the information was presented and how easily all the elements connected together. Student Service advisors I showed the concept to were impressed and spoke excitedly about how they might be able to use it with potential students.</p>
+                            <p>However, because of changes in our administration this project was shelved. It’s part of the job. These things happen, but I couldn’t help but be a little disappointed because I could see the potential for this project to become very useful to our student services staff and potential students.</p>
+                        </section>
+                    </div> <!-- End Story Overlay Section -->
+                </div> <!-- End Coleman Pathways -->
+
+
+
+
+                <div class="galleryItem overlay-container"> <!-- One Day Video -->
+                    <div> <!-- Contains photo -->
+                        <a href="#" class="overlay-trigger">
+                            <img src="img/oneday-gallery-l.jpg" alt="One Day Video Project"/>
+                        </a>
+                    </div> <!-- End Photo Container Section -->
+                    <div class="overlay overlay-hugeinc"> <!-- The Story Overlay Section -->
+                        <button type="button" class="overlay-close">Close</button>
+                        <section>
+                        	<h2>One Day:<span> Promotional Video</span></h2>
+                            <p><span>My Roles:</span> Concept Development, Camera Operator and Editor</p>
+                            <h3>The Challenge</h3>
+                            <p>HCC Coleman College’s faculty and staff had produced several videos which showcased the college’s students and programs. However, these videos were all very straight forward, lacked narrative momentum and looked amateurish. It was my goal to develop a video that showcased our location within the Texas Medical Center, our campus (especially the laboratories) and honored the dedication and sacrifice of our students.</p>
+                            <div class="videoWrapper">
+                                <iframe width="560" height="315" src="http://www.youtube.com/embed/RdKruZoGff8?rel=0" frameborder="0" allowfullscreen></iframe>
+                            </div>                            
+                            <h3>The Creative Process</h3>
+                            <p>I developed the concept for “One Day” after watching the video for Death Cab for Cutie’s <a href="https://www.youtube.com/watch?v=pq-yP7mb8UE" target="_blank">“I Will Possess Your Heart.”</a> Intercut between shots of the band performing the song are scenes of a woman traveling around the world. I was struck by the simplicity of the concept and how it allowed the viewer to enter the main character’s thoughts. I decided to expand on this idea for this project.</p>
+							<p>After winning buy-in from the Public Relations Director, I approached several program directors to ask for their help recruiting students to appear in the video and to ask permission to film in their labs. I built a camera rig from metal pluming pipes in order to accomplish the flowing camera moves I pictured in my head. I got permission to shoot the skyline images of our campus from the UT Brown Foundation Institute of Molecular Medicine.</p>
+							<p>A student and I arrived on campus early one morning to shoot scenes on METRORail. We were worried the entire time, because we didn’t know if what we were doing was OK or not. Her dedication and cooperation is just one example of the generous spirit the student volunteers brought to this project.</p>
+							<p>After filming off and on for about a month, I began editing the footage in Final Cut Pro.
+</p>
+                            <h3>The Results</h3>
+                            <p>The video premiered during our annual Employee Recognition Luncheon and received a standing ovation. The video has been viewed on YouTube more than 5,000 times. It has served as an inspiration for other videos produced by Houston Community College, and has been shown at several recruiting events throughout the years.</p>
+							<p>"One Day” was awarded a 2009 Silver Medallion Award in the promotional video category from the National Council for Marketing and Public Relations (NCMPR).</p>
+                        </section>
+                    </div> <!-- End Story Overlay Section -->
+                </div> <!-- End One Day Video -->
