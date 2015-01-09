@@ -1,0 +1,131 @@
+/*************************
+SITE HEADER
+*************************/
+
+header {
+    height:80px;
+    position:fixed;
+    width:100%;
+    top:0;
+    margin-right:auto;
+    margin-left:auto;
+    z-index:1000;
+}
+
+.logoContainer img {
+    max-width:45px;
+    max-height:45px;
+}
+
+.logoContainer h1 {
+    left:1rem;
+}
+
+.logoContainer {
+    margin-left:1rem;
+    margin-top:1rem;
+}
+
+header h1 {
+    font-size:.9rem;
+    letter-spacing:.085rem;
+    vertical-align:middle;
+    margin-top:1rem;
+}
+
+nav {
+    margin-right:1rem;
+    width:50%;
+    vertical-align:middle;
+}
+
+nav a {
+    font-size:.9rem;
+    margin-left:1.5rem;
+    letter-spacing:.05rem;
+    margin-top:18px;
+}
+
+/***************************
+HEADER - Button Style
+***************************/
+
+.btn {
+    font-size:.9em;
+    padding:.5em 1em;
+    border-radius:5px;
+    display:inline-block;
+    margin:8px auto;
+    letter-spacing:.05em;
+    outline:none;
+    position:relative;
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    transition:all 0.3s;
+}
+
+.btn:after {
+    content:'';
+    position:absolute;
+    z-index:-1;
+    -webkit-transition:all 0.3s;
+    -moz-transition:all 0.3s;
+    transition:all 0.3s;
+}
+
+.btn-2 {
+    box-shadow:0 4px #c3491f;
+    -webkit-transition:none;
+    -moz-transition:none;
+    transition:none;
+}
+
+.btn-2h {
+    border-radius:20px;
+}
+
+.btn-2h:hover {
+    box-shadow:0 2px #c3491f;
+}
+
+.btn-2h:active {
+    box-shadow:0 0 #c3491f;
+    top:4px;
+}
+
+/*************************
+MAIN IMAGE
+*************************/
+
+.mainImage {
+    background:url(../img/main-image-m.jpg) no-repeat center center scroll;
+    background-size:cover;
+    width:100%;
+    height:356px;
+    position:relative;
+    -webkit-transform-style:preserve-3d;
+    -moz-transform-style:preserve-3d;
+    transform-style:preserve-3d;
+}
+
+.mainImage h1 {
+    font-size:2em;
+    letter-spacing:.1em;
+}
+
+.headline {
+    margin-left:109px;
+    position:absolute;
+    top:50%;
+    -webkit-transform:translate(0,-50%);
+    -moz-transform:translate(0,-50%);
+    transform:translate(0,-50%);
+}
+
+/*************************
+INTRODUCTION
+*************************/
+
+.introduction {
+    margin:60px 14.342105263157896% 0px;
+}
