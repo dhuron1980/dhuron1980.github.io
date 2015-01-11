@@ -18,6 +18,10 @@ GENERAL RULES
     padding:0 1em .25em;
 }
 
+.hiddenMenu {
+    display:inline;
+}
+
 /*************************
 SITE HEADER
 *************************/
@@ -51,8 +55,8 @@ header {
 header h1 {
     font-size:1.05em;
     letter-spacing:.1em;
+    margin-top:16px;
     vertical-align:middle;
-    margin-top:15px;
 }
 
 nav {
@@ -208,7 +212,7 @@ WORK -- Gallery
     margin-right:auto;
 }
 
-@media only screen and (min-width:481px) {
+@media only screen and (min-width:320px) {
     .gallery {
         -moz-column-count:2;
         -moz-column-gap:2.5%;
@@ -219,7 +223,7 @@ WORK -- Gallery
     }
 }
 
-@media only screen and (min-width:760px) {
+@media only screen and (min-width:550px) {
     .gallery {
         -moz-column-count:3;
         -moz-column-gap:2.5%;
@@ -250,6 +254,10 @@ ABOUT
     max-height:100%;
     margin:0 2.083333333333333% 10px 0;
     vertical-align:top;
+}
+
+.wideImage {
+    display:none;
 }
 
 .profileCopy {
@@ -366,7 +374,13 @@ PORTFOLIO PAGES
 }
 
 .overlay figure {
-    margin:4em 0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:4em;
+}
+
+.single {
+    margin-top:4em;
 }
 
 /***************************

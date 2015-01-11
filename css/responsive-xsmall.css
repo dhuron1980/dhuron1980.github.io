@@ -1,0 +1,315 @@
+/***************************
+GENERAL RULES
+***************************/
+
+.wrapper {
+    margin-top:50px;
+}
+
+.sectionTitle {
+    font-size:.9em;
+    letter-spacing:.09em;
+    margin:0 auto 40px;
+}
+
+
+/*************************
+SITE HEADER
+*************************/
+
+header {
+    height:50px;
+    position:fixed;
+    width:100%;
+    top:0;
+    margin-right:auto;
+    margin-left:auto;
+    border-bottom:1px solid #fff;
+    z-index:1000;
+}
+
+
+.logoContainer img {
+    float:left;
+    max-width:40px;
+    max-height:40px;
+}
+
+.logoContainer h1 {
+    position:relative;
+    float:right;
+}
+
+.logoContainer {
+    width:299px;
+    margin:5px auto 0;
+}
+
+header h1 {
+    font-size:.76em;
+    letter-spacing:.08em;
+    margin-top:12px;
+    vertical-align:middle;
+}
+
+.hiddenMenu {
+    display:none;
+}
+
+nav {
+    background:#e95927;
+    width:100%;
+    float:none;
+    text-align:center;
+    vertical-align:middle;
+}
+
+.logoContainer {
+    float:none;
+}
+
+nav a {
+    font-size:1em;
+    margin-left:1em;
+    letter-spacing:.1em;
+    padding-bottom:5px;
+}
+
+nav a:hover {
+    color:#1e4386;
+}
+
+/**************************
+Small Menu
+**************************/
+
+.smallMenu {
+    display:inline;
+    width:100%;
+}
+
+/*************************
+MAIN IMAGE
+*************************/
+
+.mainImage {
+    background:url(../img/main-image-xs.jpg) no-repeat center center scroll;
+    background-size:cover;
+    width:100%;
+    height:257px;
+    position:relative;
+    -webkit-transform-style:preserve-3d;
+    -moz-transform-style:preserve-3d;
+    transform-style:preserve-3d;
+}
+
+.mainImage h1 {
+    font-size:1.1em;
+    letter-spacing:.1em;
+}
+
+.headline {
+    margin-left:50px;
+    position:absolute;
+    top:50%;
+    -webkit-transform:translate(0,-50%);
+    -moz-transform:translate(0,-50%);
+    transform:translate(0,-50%);
+}
+
+/*************************
+INTRODUCTION
+*************************/
+
+.introduction {
+    margin:50px 12% 0px;
+}
+
+.introduction p {
+    font-size:.875em;
+    letter-spacing:.1em;
+    line-height:1.8em;
+}
+
+/*************************
+WORK
+*************************/
+
+.work {
+    margin:50px auto 0px;
+    width:76%;
+}
+
+/*************************
+ABOUT
+*************************/
+
+.about {
+    margin:50px 12%;
+}
+
+.about p {
+    font-size:.875em;
+    letter-spacing:.1em;
+    line-height:1.8em;
+}
+
+.profileImage {
+    display:none;
+    float:none;
+    width:100%;
+    height:auto;
+    margin:0 auto 10px;
+    vertical-align:central;
+}
+
+.wideImage {
+    display:inline;
+    width:100%;
+    height:auto;
+    margin:0 auto 10px;
+}
+
+.profileCopy {
+    position:relative;
+}
+
+/*********************
+CONTACT
+*********************/
+
+.contact {
+    width:100%;
+    padding:45px 0;
+}
+
+.contact p {
+    margin:0 12%;
+    font-size:.875em;
+    letter-spacing:.1em;
+    line-height:1.8em;
+}
+
+.contactMe {
+    color:#1e4386;
+    text-decoration:none;
+}
+
+.contactMe:hover {
+    text-decoration:underline;
+}
+
+/*********************
+CONTACT - Contact Form
+*********************/
+
+input, textarea {
+    font-size:.875em;
+    width:150px;
+}
+
+label {
+    font-size:.875em;
+    letter-spacing:.1em;
+    width:140px;
+}
+
+form {
+    margin:0 auto;
+    width:300px;
+    padding-top:45px;
+}
+
+form div + div {
+    margin-top:1em;
+}
+
+.button {
+    padding-left:140px;
+}
+
+button {
+    margin-left:.5em;
+    padding:.5em .75em;
+    border-radius:10px;
+    font-size:.875em;
+    letter-spacing:.1em;
+}
+
+/************************
+FOOTER
+************************/
+footer {
+    padding:7px 0;
+    width:100%;
+}
+
+footer p {
+    font-size:.7em;
+    letter-spacing:.08em;
+    margin:10px 20px;
+    text-align:center;
+    line-height:1.5em;
+}
+
+/****************************
+PORTFOLIO PAGES
+****************************/
+
+.overlay .overlay-close {
+    position:fixed;
+    right:10px;
+    top:20px;
+    overflow:hidden;
+    border:none;
+    outline:none;
+    z-index:100;
+    text-indent:200%;
+    background-image:url(../img/cross.png);
+    background-repeat:no-repeat;
+    background-position:center center;
+    width:45px;
+    height:45px;
+}
+
+.overlay h3 {
+    padding-top:1em;
+}
+
+.overlay p {
+    font-size:.875em;
+    letter-spacing:.1em;
+    line-height:1.8em;
+    padding-bottom:.5em;
+}
+
+.overlay h2 {
+    font-size:1em;
+    letter-spacing:.1em;
+    line-height:1.8em;
+}
+
+.overlay section {
+    margin:100px 14% 50px 14%;
+}
+
+.overlay figure img {
+	max-width:100%;
+	height:auto;
+}
+
+.overlay figcaption {
+    letter-spacing:.08em;
+    font-size:.8em;
+    line-height:1.8em;
+}
+
+.overlay figure {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:2em;
+}
+
+.single {
+    margin-top:2em;
+}
