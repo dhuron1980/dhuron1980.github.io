@@ -240,3 +240,35 @@ PORTFOLIO PAGES
 }
 
 
+/*******************
+Thank you page
+********************/
+
+.thankYou h2 {
+    font-family:"AvenirNextBold", sans-serif;
+    font-size:1.25em;
+    letter-spacing:.1em;
+    color:#464646;
+    text-align:center;
+    margin:40px 12.5%;
+}
+
+.thankYou p {
+    font-family:"AvenirNextRegular", sans-serif;
+    font-size:1em;
+    letter-spacing:.1em;
+    line-height:1.9em;
+    color:#464646;
+    text-align:center;
+    margin:40px 12.5%;
+}
+
+.thankYou a {
+    text-decoration:none;
+    color:#e95927;
+}
+
+.thankYou a:hover {
+    text-decoration:underline;
+    color:#1e4386;
+}

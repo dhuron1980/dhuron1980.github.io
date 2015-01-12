@@ -922,7 +922,11 @@ This is storytelling: The joy of creating something that connects emotionally wi
         <div id="contact" class="contact">
             <h2 class="sectionTitle"><img src="img/section-line-white.jpg" alt="Section Line"><span>Contact</span><img src="img/section-line-white.jpg" alt="Section Line"></h2>
             <p>Thank you for taking the time to learn more about me and my work. I look forward to talking to you soon about my future with your organization. Feel free to contact me by email at <a class="contactMe" href="mailto:daniel.huron@outlook.com?subject=A%20New%20Opportunity">daniel.huron@outlook.com</a> or use the form below. You may also contact me by phone at (281) 851-5004.</p>
-        	<form action="https://docs.google.com/forms/d/18zFrWGc_vI019mvpBLP1cTOQmTH0aW_bGpOJUD7TcqQ/formResponse" method="post">
+            <script type="text/javascript">var submitted=false;</script>
+            <iframe name="hidden_iframe" id="hidden_iframe"
+            style="display:none;" onload="if(submitted)
+            {window.location='thanks.html';}"></iframe>
+        	<form action="https://docs.google.com/forms/d/18zFrWGc_vI019mvpBLP1cTOQmTH0aW_bGpOJUD7TcqQ/formResponse" method="post" target="hidden_iframe" onSubmit="submitted=true;">
 	        <div>
     	    	<label class="ss-q-item-label" for="entry_1795789691">Name *</label>
         	    <input type="text" name="entry.1795789691" value="" class="ss-q-short" id="entry_1795789691" dir="auto" aria-label="Name  " title="" />
