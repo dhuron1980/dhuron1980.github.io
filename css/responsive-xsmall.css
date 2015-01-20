@@ -52,6 +52,13 @@ header h1 {
     vertical-align:middle;
 }
 
+header .smallerText h1 {
+    font-size:.7em;
+    letter-spacing:.06em;
+    margin-top:13px;
+    vertical-align:middle;
+}
+
 .hiddenMenu {
     display:none;
 }
@@ -103,8 +110,25 @@ MAIN IMAGE
     transform-style:preserve-3d;
 }
 
+.mainImageTwo {
+    background:url(../img/main-image-xs-1.jpg) no-repeat center center scroll;
+    background-size:cover;
+    width:100%;
+    height:229px;
+    position:relative;
+    -webkit-transform-style:preserve-3d;
+    -moz-transform-style:preserve-3d;
+    transform-style:preserve-3d;
+}
+
+
 .mainImage h1 {
     font-size:1.1em;
+    letter-spacing:.1em;
+}
+
+.mainImageTwo h1 {
+    font-size:1.75em;
     letter-spacing:.1em;
 }
 
@@ -312,4 +336,42 @@ PORTFOLIO PAGES
 
 .single {
     margin-top:2em;
+}
+
+/****************************
+CURRENT WORK 
+****************************/
+
+.currentWork {
+    margin-top:50px;
+}
+
+.currentEntry p {
+    font-size:.875em;
+    letter-spacing:.1em;
+    line-height:1.8em;
+    padding-bottom:.5em;
+}
+
+.currentEntry h2 {
+    font-size:1em;
+    letter-spacing:.1em;
+    line-height:1.8em;
+}
+
+.currentEntry figure img {
+	max-width:100%;
+	height:auto;
+}
+
+.currentEntry figcaption {
+    letter-spacing:.08em;
+    font-size:.8em;
+    line-height:1.8em;
+}
+
+.currentEntry figure {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:2em;
 }

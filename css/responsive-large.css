@@ -146,7 +146,24 @@ MAIN IMAGE
     transform-style:preserve-3d;
 }
 
+.mainImageTwo {
+    background:url(../img/main-image-l-1.jpg) no-repeat center center scroll;
+    background-size:cover;
+    width:100%;
+    height:400px;
+    position:relative;
+    -webkit-transform-style:preserve-3d;
+    -moz-transform-style:preserve-3d;
+    transform-style:preserve-3d;
+}
+
+
 .mainImage h1 {
+    font-size:2.25em;
+    letter-spacing:.1em;
+}
+
+.mainImageTwo h1 {
     font-size:2.25em;
     letter-spacing:.1em;
 }
@@ -233,6 +250,7 @@ WORK -- Gallery
         column-gap:2.5%;
     }
 }
+
 
 /*************************
 ABOUT
@@ -509,4 +527,71 @@ PORTFOLIO - modal
   .modal-lg {
     width: 900px;
   }
+}
+
+/*************************
+CURRENT WORK
+*************************/
+
+.currentWork {
+    margin:90px 12.19875% 90px;
+}
+
+.currentEntry p {
+    font-size:1em;
+    letter-spacing:.08em;
+    line-height:1.9em;
+}
+
+.currentEntry {
+    margin-top:2em;
+    margin-bottom:3em;
+}
+
+.currentEntry h2 {
+    font-family:"AvenirNextBold", sans-serif;
+    color:#464646;
+    font-size:1.25em;
+    letter-spacing:.08em;
+}
+
+.currentEntry h2 span {
+    font-family:"AvenirNextRegular", sans-serif;
+    color:#464646;
+    letter-spacing:.08em;
+}
+
+.currentEntry img {
+	width:100%;
+	vertical-align:middle;
+	-webkit-box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	-moz-box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	-o-box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	box-shadow: rgba(0, 0, 0, .25) 0 1px 3px;
+	background: #fff; /* Solid background color as a fallback for IE */
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#fff), to(#eee));
+	background: -moz-linear-gradient(top, #fff, #eee);
+	background: -o-linear-gradient(top, #fff, #eee);
+	background: linear-gradient(top, #fff, #eee);
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	-o-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.currentEntry figure img {
+	max-width:100%;
+	height:auto;
+}
+
+.currentEntry figcaption {
+    letter-spacing:.1em;
+    font-size:.85em;
+    line-height:1.9em;
+}
+
+.currentEntry figure {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:4em;
 }
